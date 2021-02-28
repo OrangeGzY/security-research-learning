@@ -877,6 +877,9 @@ int main()
 
 个人觉得我写的这个比网上的exp要略微优雅一些（bypass smep）
 
+效果：
+![](https://bbs.pediy.com/upload/attach/202102/876323_WHQBW8Y4CKH439V.jpg)
+
 几个关键点：
 
 - 作为union的attr成员不要直接做赋值，分配的空间上很可能会爆段错误，所以我选择写成一个constructor提前分配固定的空间，这样就不会在赋值的时候出错。（这个当时踩了一下坑）

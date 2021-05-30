@@ -7,7 +7,7 @@
 - 分析了eBPF的jit和verifier流程，和几个相关CVE
 
 # Week10,5.30-6.6
-## tiny_kernel
-### lab0 √
-## others
+### tiny_kernel
+- lab0 √
+### others
 读了一下《Fuzzing the Linux Kernel》

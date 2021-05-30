@@ -4,12 +4,8 @@
 - AFL-fuzz源码分析
 - malloclab实现tiny_malloc
 - 插件写了一半
+- 分析了eBPF的jit和verifier流程，和几个相关CVE
 
-# 2021.5.30-至今
+# Week10,5.30-6.6
 ## tiny_kernel
-### lab0 
-https://objectkuan.gitbooks.io/ucore-docs/content/lab0.html
-
-
-
- 
+### lab0 √

@@ -1,6 +1,6 @@
 # security-research-learning
 
-# 目前已经做了的项目
+# Done(before Week10)
 - AFL-fuzz源码分析
 - malloclab实现tiny_malloc
 - 插件写了一半

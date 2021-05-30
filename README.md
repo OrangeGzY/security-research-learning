@@ -2,7 +2,7 @@
 
 # 目前已经做了的项目
 - AFL-fuzz源码分析
-- malloclab
+- malloclab实现tiny_malloc
 - 插件写了一半
 
 # 2021.5.30-至今

@@ -17,7 +17,8 @@
 **3. IDA插件（还需完善）**
 
 
-**4. 分析了Linux内核eBPF模块的源码，主要是jit和verifier流程。**
+**4. Linux内核源码分析**
+- [eBPF--jit and verifier]
 
 
 **5. 已分析的CVE**

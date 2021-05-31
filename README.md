@@ -22,8 +22,17 @@
 **4. Linux内核源码分析**
 - eBPF模块
 
+**5. Linux内核漏洞利用**
+- [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)
+- [Double_fetch](https://bbs.pediy.com/thread-262426.htm)
+- [Kernel_UAF](https://bbs.pediy.com/thread-262427.htm)
+- [ret2usr](https://bbs.pediy.com/thread-262434.htm)
+- [Heap_Spraying](https://bbs.pediy.com/thread-263954.htm)
+- [ret2dir](https://bbs.pediy.com/thread-263992.htm)
+- prctl
+- modprobe_patn
 
-**5. 已分析的CVE**
+**6. 已分析的CVE**
 - Linux Kernel,DirtyCOW,[CVE-2016-5195](https://bbs.pediy.com/thread-264199.htm)
 - Linux Kernel,waitpid,[CVE-2017-5123](https://bbs.pediy.com/thread-265232.htm)
 - Linux Kernel,UDF Fragment Offload,[CVE-2017-10000112](https://bbs.pediy.com/thread-265319.htm)

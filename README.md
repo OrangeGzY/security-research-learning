@@ -25,8 +25,8 @@
 - Linux Kernel,waitpid,[CVE-2017-5123](https://bbs.pediy.com/thread-265232.htm)
 - Linux Kernel,UDF Fragment Offload,[CVE-2017-10000112](https://bbs.pediy.com/thread-265319.htm)
 - Linux Kernel,eBPF,[rc-整数溢出](https://bbs.pediy.com/thread-266200.htm)
-- Linux Kernel,CVE-2020-8835
-- Linux Kernel,CVE-2020-27194
+- Linux Kernel,eBPF,CVE-2020-8835
+- Linux Kernel,eBPF,CVE-2020-27194
 - Linux Userspace,sudo不完全分析,[CVE-2021-3156](https://github.com/OrangeGzY/AFL_learning/blob/main/intro_to_CVE-2021-3156.md)
 
 # Week10,5.30-6.6,2021

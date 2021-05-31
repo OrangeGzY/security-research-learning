@@ -1,11 +1,29 @@
 # security-research-learning
 
-# Done(before Week10)
-- AFL-fuzz源码分析
-- malloclab实现tiny_malloc
-- 插件（还需完善）
-- 分析了Linux内核eBPF模块的源码，主要是jit和verifier流程，和几个相关CVE
-- 分析一些其他的内核经典CVE
+# Done
+**1. AFL-fuzz源码分析**
+- [AFL源码阅读笔记之gcc与fuzz部分](https://bbs.pediy.com/thread-265936.htm)
+- [AFL编译插桩部分源码分析](https://bbs.pediy.com/thread-265973.htm)
+- [AFL之llvm mode部分源码分析](https://bbs.pediy.com/thread-266025.htm)
+
+
+**2. malloclab实现自己的malloc分配器**
+- [tiny_malloc](https://github.com/OrangeGzY/csapp-lab/blob/main/malloclab/mm.c)
+
+
+**3. IDA插件（还需完善）**
+
+
+**4. 分析了Linux内核eBPF模块的源码，主要是jit和verifier流程。**
+
+
+**5. 已分析的CVE**
+- Linux Kernel,DirtyCOW,[CVE-2016-5195](https://bbs.pediy.com/thread-264199.htm)
+- Linux Kernel,waitpid,[CVE-2017-5123](https://bbs.pediy.com/thread-265232.htm)
+- Linux Kernel,UDF Fragment Offload,[CVE-2017-10000112](https://bbs.pediy.com/thread-265319.htm)
+- Linux Kernel,eBPF,[rc-整数溢出](https://bbs.pediy.com/thread-266200.htm)
+- Linux Kernel,CVE-2020-8835
+- Linux Kernel,CVE-2020-27194
 
 # Week10,5.30-6.6,2021
 ### tiny_kernel

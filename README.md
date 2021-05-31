@@ -6,10 +6,11 @@
 看雪：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
 
 # Done
-**1. AFL-fuzz源码分析**
+**1. Fuzz源码分析**
 - [AFL源码阅读笔记之gcc与fuzz部分](https://bbs.pediy.com/thread-265936.htm)
 - [AFL编译插桩部分源码分析](https://bbs.pediy.com/thread-265973.htm)
 - [AFL之llvm mode部分源码分析](https://bbs.pediy.com/thread-266025.htm)
+- [sslab-DIE,js-fuzz](https://github.com/OrangeGzY/security-research-learning/blob/main/DIE/DIE.md)
 
 
 **2. malloclab实现自己的malloc分配器**

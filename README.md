@@ -3,7 +3,7 @@
 # Done(before Week10)
 - AFL-fuzz源码分析
 - malloclab实现tiny_malloc
-- 插件写了一半
+- 插件（还需完善）
 - 分析了Linux内核eBPF的jit和verifier流程，和几个相关CVE
 
 # Week10,5.30-6.6,2021

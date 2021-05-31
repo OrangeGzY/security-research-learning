@@ -27,11 +27,12 @@
 - [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)
 - [Double_fetch](https://bbs.pediy.com/thread-262426.htm)
 - [Kernel_UAF](https://bbs.pediy.com/thread-262427.htm)
+- prctl
+- modprobe_path
 - [ret2usr](https://bbs.pediy.com/thread-262434.htm)
 - [Heap_Spraying](https://bbs.pediy.com/thread-263954.htm)
 - [ret2dir](https://bbs.pediy.com/thread-263992.htm)
-- prctl
-- modprobe_path
+
 
 **6. 已分析的CVE**
 - Linux Kernel,DirtyCOW,[CVE-2016-5195](https://bbs.pediy.com/thread-264199.htm)

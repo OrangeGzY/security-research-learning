@@ -1,5 +1,5 @@
 # security-research-learning
-记录自己安全研究的学习过程。跳过了[早期的CTF阶段](https://orangegzy.github.io)。
+重新记录自己安全研究的学习过程。跳过了[早期的CTF阶段](https://orangegzy.github.io)。
 
 看雪：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
 

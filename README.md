@@ -50,6 +50,7 @@
 - [2020年终总结](https://orangegzy.github.io/2020/12/27/lost-in-2020/)
 - [从期末考试说开去](https://orangegzy.github.io/2021/01/05/从期末考试说开去/)
 - [随便说点什么，关于CTF入门这些事情](https://orangegzy.github.io/2021/02/04/lost-in-books/)
+- [2021年中随笔](https://github.com/OrangeGzY/security-research-learning/blob/main/2021-mid.md)
 
 # Week10,5.30-6.6,2021
 ### tiny_kernel

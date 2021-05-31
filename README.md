@@ -9,6 +9,7 @@
 
 # Week10,5.30-6.6,2021
 ### tiny_kernel
-- lab0 √
+1. lab0 √
 ### others
-读了一下《Fuzzing the Linux Kernel》
+1. 读了一下《Fuzzing the Linux Kernel》再理解一些宏观上的kernel fuzz的东西吧。
+2. 读了一下 [DIE](https://github.com/sslab-gatech/DIE) 的源码，是一个魔改AFL，主要理解了一下魔改的样本变异阶段，写了点笔记。虽然不是做js-fuzz的，但是还是学到许多。

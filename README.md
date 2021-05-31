@@ -30,7 +30,7 @@
 - [Heap_Spraying](https://bbs.pediy.com/thread-263954.htm)
 - [ret2dir](https://bbs.pediy.com/thread-263992.htm)
 - prctl
-- modprobe_patn
+- modprobe_path
 
 **6. 已分析的CVE**
 - Linux Kernel,DirtyCOW,[CVE-2016-5195](https://bbs.pediy.com/thread-264199.htm)

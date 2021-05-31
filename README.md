@@ -1,9 +1,9 @@
 # security-research-learning
 记录自己安全研究的学习过程。跳过了[早期的CTF阶段](https://orangegzy.github.io)。
 
-艺无止境，功不唐捐。
-
 看雪：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
+
+艺无止境，功不唐捐。
 
 # Done
 **1. Fuzz源码分析**
@@ -21,7 +21,14 @@
 
 
 **4. Linux内核源码分析**
+- [内核boot源码分析](https://orangegzy.github.io/2020/07/16/Linux内核基础/)
 - eBPF模块
+
+**5. 0xffff**
+- [2020年中随笔](https://orangegzy.github.io/2020/07/26/2020年中随笔/)
+- [2020年终总结](https://orangegzy.github.io/2020/12/27/lost-in-2020/)
+- [从期末考试说开去](https://orangegzy.github.io/2021/01/05/从期末考试说开去/)
+- [随便说点什么，关于CTF入门这些事情](https://orangegzy.github.io/2021/02/04/lost-in-books/)
 
 **5. Linux内核漏洞利用**
 - [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)

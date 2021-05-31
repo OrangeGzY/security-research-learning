@@ -4,7 +4,7 @@
 - AFL-fuzz源码分析
 - malloclab实现tiny_malloc
 - 插件（还需完善）
-- 分析了Linux内核eBPF的jit和verifier流程，和几个相关CVE
+- 分析了Linux内核eBPF模块的源码，主要是jit和verifier流程，和几个相关CVE
 - 分析一些其他的内核经典CVE
 
 # Week10,5.30-6.6,2021

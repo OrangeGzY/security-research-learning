@@ -24,11 +24,6 @@
 - [内核boot源码分析](https://orangegzy.github.io/2020/07/16/Linux内核基础/)
 - eBPF模块
 
-**5. 0xffff**
-- [2020年中随笔](https://orangegzy.github.io/2020/07/26/2020年中随笔/)
-- [2020年终总结](https://orangegzy.github.io/2020/12/27/lost-in-2020/)
-- [从期末考试说开去](https://orangegzy.github.io/2021/01/05/从期末考试说开去/)
-- [随便说点什么，关于CTF入门这些事情](https://orangegzy.github.io/2021/02/04/lost-in-books/)
 
 **5. Linux内核漏洞利用**
 - [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)
@@ -49,6 +44,12 @@
 - Linux Kernel,eBPF,CVE-2020-8835
 - Linux Kernel,eBPF,CVE-2020-27194
 - Linux Userspace,sudo不完全分析,[CVE-2021-3156](https://github.com/OrangeGzY/AFL_learning/blob/main/intro_to_CVE-2021-3156.md)
+
+**0xffff. 杂记**
+- [2020年中随笔](https://orangegzy.github.io/2020/07/26/2020年中随笔/)
+- [2020年终总结](https://orangegzy.github.io/2020/12/27/lost-in-2020/)
+- [从期末考试说开去](https://orangegzy.github.io/2021/01/05/从期末考试说开去/)
+- [随便说点什么，关于CTF入门这些事情](https://orangegzy.github.io/2021/02/04/lost-in-books/)
 
 # Week10,5.30-6.6,2021
 ### tiny_kernel

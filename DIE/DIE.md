@@ -876,7 +876,17 @@ export function buildNodeForMutation(tc: TestCase, path: NodePath): MutateChange
 
 这个函数我个人的总体感觉是：
 
-**这里我们已经变异结束了（即生成的新的ast节点），需要进行apply，那么把需要被apply替换的位置抽象成ast中一个父节点，首先判断字节点合法性，对子节点做遍历，然后在curNodesMap中标记父子节点位置。之后用replaceWith将变异后的新的子节点替换上去。然后压栈保存被替换的节点，最后向上回溯查看paraent节点是否有效。**
+**这里我们已经变异结束了（即生成的新的ast节点），需要进行apply，那么把需要被apply替换的位置抽象成ast中一个父节点，~~首先判断字节点合法性~~，对子节点做遍历，然后在curNodesMap中标记父子节点位置。之后用replaceWith将变异后的新的子节点替换上去。然后压栈保存被替换的节点，~~最后向上回溯查看paraent节点是否有效~~。
+
+**更正+详细一些：**
+
+**变异结束之后invalidChildrens首先对已经变异的节点设置curNodesMap中的表项为空（清空对应表项）。然后从oldNode向下扫描子节点，如果在curNodesMap中有对应的子节点，且没有被设置为空，那么说明找到了一个已经变异后的oldNode下的非空子节点，我们再将此子curNodesMap中对应的表项设置为空（感觉这个是相当于当我们变异一个oldNode，那么他下面的子节点都会在curNodesMap表中对应表项的被设置成空）
+**
+同理，invalidParents是向上扫，把扫到的在curNodesMap中的节点的对应表项的value值设置为空。
+
+**所以curNodesMap中以TSNode - number键值对存储，一旦遇到了一个被成功变异的节点，就会将它上下对应的子节点的number标志全部设置为null。如果后续再遇到这种已经被设置为null的节点，就不再做invalid的设置。
+
+**而最终产生本轮被设置/更新好的新的curNodesMap**
 
 大体流程：
 

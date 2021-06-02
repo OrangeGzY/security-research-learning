@@ -55,6 +55,8 @@
 # Week10,5.30-6.6,2021
 ### tiny_kernel
 1. lab0 √
+2. lab1 √
 ### others
 1. 读了一下《Fuzzing the Linux Kernel》再理解一些宏观上的kernel fuzz的东西。[ppt](https://github.com/OrangeGzY/security-research-learning/blob/main/Fuzzing%20the%20Linux%20Kernel/2021%2C%20PHDays_%20Fuzzing%20the%20Linux%20kernel.pdf)
 2. 读了一下 [DIE](https://github.com/sslab-gatech/DIE) 的源码，是一个魔改AFL的**js-fuzz**，主要理解了一下魔改的样本变异阶段（Typescript编写），形成了一些[笔记](https://github.com/OrangeGzY/security-research-learning/blob/main/DIE/DIE.md)。虽然我不是做js-fuzz的，但是还是学到许多。
+3. 用中断机制来提高内核中条件竞争漏洞的利用成功率：[【bsauce读论文】2021-USENIX-EXPRACE-采用中断机制来利用多变量竞争漏洞](https://www.jianshu.com/p/eaabf0b3cec7)，感觉挺有意思的，mark一下，原paper在：[ExpRace: Exploiting Kernel Races through Raising Interrupts](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan),然后blackhat上的ppt：[ppt_in_black_hat](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan)

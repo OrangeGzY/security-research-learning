@@ -26,9 +26,12 @@
 
 
 **5. Linux内核漏洞利用**
+> 本部分随缘梳理成文
 - [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)
 - [Double_fetch](https://bbs.pediy.com/thread-262426.htm)
 - [Kernel_UAF](https://bbs.pediy.com/thread-262427.htm)
+- VDSO
+- tty_struct
 - prctl
 - modprobe_path
 - [ret2usr](https://bbs.pediy.com/thread-262434.htm)

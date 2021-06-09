@@ -1,9 +1,8 @@
 # security-research-learning
 重新记录自己安全研究的学习过程。跳过了[早期的CTF阶段](https://orangegzy.github.io)。
 
-看雪：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
+看雪论坛主页：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
 
-艺无止境，功不唐捐。
 
 # Done
 **1. Fuzz源码分析**
@@ -22,7 +21,7 @@
 
 **4. Linux内核源码分析**
 - [内核boot源码分析](https://orangegzy.github.io/2020/07/16/Linux内核基础/)
-- eBPF模块
+- [内核eBPF模块源码分析](https://bbs.pediy.com/thread-267956.htm)
 
 
 **5. Linux内核漏洞利用**
@@ -37,6 +36,7 @@
 - [ret2usr](https://bbs.pediy.com/thread-262434.htm)
 - [Heap_Spraying](https://bbs.pediy.com/thread-263954.htm)
 - [ret2dir](https://bbs.pediy.com/thread-263992.htm)
+- KPTI-bypass
 
 
 **6. 已分析的CVE**

@@ -68,5 +68,5 @@
 # Week11,6.7-6.13,2021
 ### others
 1. 这几周的主线应该是**复习期末考试。**
-2. 申请了中科院软件所的开源项目实习：https://summer.iscas.ac.cn/#/?lang=chi
+2. 申请了中科院软件所的开源项目实习（如果可以的话，提高一下码力）：https://summer.iscas.ac.cn/#/?lang=chi
 3. 星阑正式离职，交接文档。

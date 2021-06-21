@@ -1,8 +1,13 @@
 # security-research-learning
 重新记录自己安全研究的学习过程。跳过了[早期的CTF阶段](https://orangegzy.github.io)。
 
-看雪论坛主页：[ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
+Website: [ScUpax0s](https://bbs.pediy.com/user-876323-2.htm)
 
+Gmail: Z3Vveml5aTExNEBnbWFpbC5jb20=
+
+QQ: MTE5MzEwNjgxMA==
+
+Wechat: U2NVcGF4MHM=
 
 # Done
 **1. Fuzz源码分析**

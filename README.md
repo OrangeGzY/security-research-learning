@@ -78,7 +78,7 @@
 
 # Experience
 2021/2 ～ 2020/5
-> StarCross Tech(星阑科技), OS Kernel Security Researcher
+> StarCross Tech(星阑科技), OS Kernel Security Research Intern
 
 2021/6 ~ Now
 > Institute of Information Engineering，Chinese Academy of Sciences(中国科学院信息工程研究所 第六研究室), Research Intern

@@ -60,6 +60,7 @@
 
 # Competition
 > 2020 ----Timeline----> ???
+- 2020/1 MCM/ICM (@ctlnumber, 3rd Prize)
 - 2020/5 ISCC (@ScUpax0s, 2nd Prize)
 - 2020/5 SCU-CTF (@萌妹, 2nd Prize)
 - **2020/8 XCTF.WMCTF (@0x401, 1st Prize)**

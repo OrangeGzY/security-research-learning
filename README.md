@@ -59,7 +59,7 @@
 - [2021年中随笔](https://github.com/OrangeGzY/security-research-learning/blob/main/2021-mid.md)
 
 # Competition
-- **DEFCON CTF 2021 QUALS**
+- **DEFCON CTF 2021 QUALS,2021**
 - **XCTF(WMCTF) 5th, 1st Prize,2020**
 - **"QiangWangCup" CTF 14th, 3rd Prize,2021**
 - ISCC-CTF 2nd Prize,2020 and 2021

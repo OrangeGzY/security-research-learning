@@ -62,9 +62,9 @@
 - **DEFCON CTF 2021 QUALS,2021**
 - **XCTF(WMCTF) 5th, 1st Prize,2020**
 - **"QiangWangCup" CTF 14th, 3rd Prize,2021**
-- ISCC-CTF 2nd Prize,2020 and 2021
+- ISCC-CTF 2nd Prize,both 2020 and 2021
 - CISCN-CTF final 3rd Prize,2020
-- CISCN-CTF regional Outstanding Winner,2020 and 2021
+- CISCN-CTF regional Outstanding Winner,both 2020 and 2021
 - "China Software Cup" 3rd Prize,2020
 - "AnXunCup" CTF, 1st Prize,2020
 - "ZongHangCup" CTF,2020

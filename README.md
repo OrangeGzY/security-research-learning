@@ -60,19 +60,19 @@
 
 # Competition
 > 2020 ----Timeline---> NOW
-- 2020/5 ISCC(@ScUpax0s, 2nd Prize)
-- 2020/5 SCU-CTF(@萌妹, 2nd Prize)
-- 2020/8 XCTF.WMCTF(@0x401, 1st Prize)
-- 2020/8 CISCN(@0x401-2, regional Outstanding Winner)
-- 2020/8 "QiangWangCup" CTF(@0x401, Winner's Prize)
+- 2020/5 ISCC (@ScUpax0s, 2nd Prize)
+- 2020/5 SCU-CTF (@萌妹, 2nd Prize)
+- 2020/8 XCTF.WMCTF (@0x401, 1st Prize)
+- 2020/8 CISCN (@0x401-2, regional Outstanding Winner)
+- 2020/8 "QiangWangCup" CTF (@0x401, Winner's Prize)
 - 2020/8 "China Software Cup" (3rd Prize)
-- 2020/9 "AnXunCup" CTF(1st Prize)
-- 2020/9 CISCN(@0x401-2, fianl 3rd Prize)
-- 2020/c "ZongHengCup" CTF(@401, 18th)
-- 2021/5 ISCC(@ScUpax0s, 2nd Prize)
+- 2020/9 "AnXunCup" CTF (1st Prize)
+- 2020/9 CISCN (@0x401-2, fianl 3rd Prize)
+- 2020/c "ZongHengCup" CTF (@401, 18th)
+- 2021/5 ISCC (@ScUpax0s, 2nd Prize)
 - 2021/5 DEFCON 29 CTF qualifier(******)
-- 2021/6 CISCN(@401-2, regional Outstanding Winner)
-- 2021/6 "QiangWangCup" CTF(@0x401, 14th, 3rd Prize)
+- 2021/6 CISCN (@401-2, regional Outstanding Winner)
+- 2021/6 "QiangWangCup" CTF (@0x401, 14th, 3rd Prize)
 - still fighting :)))))~~
 
 # Week10,5.30-6.6,2021

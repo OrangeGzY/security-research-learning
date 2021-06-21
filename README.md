@@ -70,7 +70,7 @@
 - 2020/9 CISCN (@0x401, fianl 3rd Prize)
 - 2020/c "ZongHengCup" CTF (@0x401, 18th)
 - 2021/5 ISCC (@ScUpax0s, 2nd Prize)
-- 2021/5 DEFCON 29 CTF qualifier(***GUESS***)
+- 2021/5 DEFCON 29 CTF qualifier (***GUESS***)
 - 2021/6 CISCN (@401, regional Outstanding Winner)
 - 2021/6 "QiangWangCup" CTF (@0x401, 14th, 3rd Prize)
 - still fighting :)))))~~

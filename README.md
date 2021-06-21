@@ -59,7 +59,7 @@
 - [2021年中随笔](https://github.com/OrangeGzY/security-research-learning/blob/main/2021-mid.md)
 
 # Competition
-> 2020 ----Timeline---> NOW
+> 2020 ----Timeline----> ???
 - 2020/5 ISCC (@ScUpax0s, 2nd Prize)
 - 2020/5 SCU-CTF (@萌妹, 2nd Prize)
 - 2020/8 XCTF.WMCTF (@0x401, 1st Prize)
@@ -71,7 +71,7 @@
 - 2020/c "ZongHengCup" CTF (@0x401, 18th)
 - 2021/5 ISCC (@ScUpax0s, 2nd Prize)
 - 2021/5 DEFCON 29 CTF qualifier (***GUESS***)
-- 2021/6 CISCN (@401, regional Outstanding Winner)
+- 2021/6 CISCN (@0x401, regional Outstanding Winner)
 - 2021/6 "QiangWangCup" CTF (@0x401, 14th, 3rd Prize)
 - still fighting :)))))~~
 

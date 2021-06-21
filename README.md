@@ -76,7 +76,15 @@
 - **2021/6 "QiangWangCup" CTF (@0x401, 14th, 3rd Prize)**
 - still fighting :)))))~~
 
-# Week10,5.30-6.6,2021
+# Experience
+2021/2 ～ 2020/5
+> StarCross Tech(星阑科技), OS Kernel Security Researcher
+
+2021/6 ~ Now
+> Institute of Information Engineering，Chinese Academy of Sciences(中国科学院信息工程研究所 第六研究室), Research Intern
+
+# Timeline
+## Week10,5.30-6.6,2021
 ### tiny_kernel
 1. lab0 √
 2. lab1 √
@@ -86,7 +94,7 @@
 3. 用中断机制来提高内核中条件竞争漏洞的利用成功率：[【bsauce读论文】2021-USENIX-EXPRACE-采用中断机制来利用多变量竞争漏洞](https://www.jianshu.com/p/eaabf0b3cec7)，感觉挺有意思的，mark一下，原paper在：[ExpRace: Exploiting Kernel Races through Raising Interrupts](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan),然后blackhat上的ppt：[ppt_in_black_hat](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan)
 4. 参加 CISCN-CTF 西南赛区分区赛
 
-# Week11,6.7-Now,2021
+## Week11,6.7-Now,2021
 ### others
 1. 这几周的主线应该是**复习期末考试。**
 2. 星阑科技正式离职，交接文档。

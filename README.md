@@ -25,7 +25,7 @@
 
 
 **5. Linux内核漏洞利用**
-> 本部分随缘梳理成文
+> 本部分随缘整理成文
 - [Kernel_ROP_LKM_debug](https://bbs.pediy.com/thread-262425.htm)
 - [Double_fetch/race condition](https://bbs.pediy.com/thread-262426.htm)
 - [Kernel_UAF](https://bbs.pediy.com/thread-262427.htm)
@@ -34,6 +34,7 @@
 - tty_struct
 - prctl
 - modprobe_path
+- Userfaultfd
 - KPTI-bypass
 - [ret2usr](https://bbs.pediy.com/thread-262434.htm)
 - [Heap_Spraying](https://bbs.pediy.com/thread-263954.htm)

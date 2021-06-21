@@ -74,3 +74,5 @@
 2. 星阑科技正式离职，交接文档。
 3. 强网杯线上14名，可以去郑州恰低保了，好耶～
 4. CISCN-CTF挺进决赛，可以去哈尔滨吃肉了，好耶～
+5. 先mark几篇图神经网络的文章，估计后面会用到。[从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (一)
+](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)

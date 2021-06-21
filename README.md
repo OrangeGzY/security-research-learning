@@ -59,15 +59,20 @@
 - [2021年中随笔](https://github.com/OrangeGzY/security-research-learning/blob/main/2021-mid.md)
 
 # Competition
-- **DEFCON CTF 2021 QUALS,2021**
-- **XCTF(WMCTF) 5th, 1st Prize,2020**
-- **"QiangWangCup" CTF 14th, 3rd Prize,2021**
-- ISCC-CTF 2nd Prize,both 2020 and 2021
-- CISCN-CTF final 3rd Prize,2020
-- CISCN-CTF regional Outstanding Winner,both 2020 and 2021
-- "China Software Cup" 3rd Prize,2020
-- "AnXunCup" CTF, 1st Prize,2020
-- "ZongHangCup" CTF,2020
+> 2020 ----Timeline---> NOW
+- 2020/5 ISCC(@ScUpax0s, 2nd Prize)
+- 2020/5 SCU-CTF(@萌妹, 2nd Prize)
+- 2020/8 XCTF.WMCTF(@0x401, 1st Prize)
+- 2020/8 CISCN(@0x401-2, regional Outstanding Winner)
+- 2020/8 "QiangWangCup" CTF(@0x401, Winner's Prize)
+- 2020/8 "China Software Cup" (3rd Prize)
+- 2020/9 "AnXunCup" CTF(1st Prize)
+- 2020/9 CISCN(@0x401-2, fianl 3rd Prize)
+- 2020/c "ZongHengCup" CTF(@401, 18th)
+- 2021/5 ISCC(@ScUpax0s, 2nd Prize)
+- 2021/5 DEFCON 29 CTF qualifier(******)
+- 2021/6 CISCN(@401-2, regional Outstanding Winner)
+- 2021/6 "QiangWangCup" CTF(@0x401, 14th, 3rd Prize)
 - still fighting :)))))~~
 
 # Week10,5.30-6.6,2021
